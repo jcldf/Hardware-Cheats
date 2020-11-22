@@ -1,3 +1,4 @@
+//prova de conceito utilizando arduino + usb host shield para fazer um controle de recuo na ak47
 #include <hidboot.h>
 #include <usbhub.h>
 #include <Mouse.h>
