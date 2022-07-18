@@ -1,2 +1,3 @@
 # Hardware-Cheats
-coleção de hardware cheats abordadas no curso de hardware hacking
+Essa coleção de códigos pertence ao treinamento em hardware hacking disponível aqui:
+https://juliodellaflora.com/treinamento
